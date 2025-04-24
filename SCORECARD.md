@@ -3,16 +3,17 @@ Create a private repo (e.g. "my-feedback") add your direct manager and manager's
 
 ## 🧾 Sprint Scoreboard
 
-| Metric                     | Expectation                                 | Dev Score | Mentor Score  | Notes / Reflection            |
-|----------------------------|---------------------------------------------|-----------|---------------|-------------------------------|
-| ✅ PRs Merged              | 2–3 per sprint                              |           |               |                               |
-| 🔁 PR Cycles               | 1 cycle is preferred                        |           |               |                               |
-| 🧼 Code Quality (1–5)      | Clean, readable, minimal rework             |           |               |                               |
-| 🧠 Self-Review Effort      | PRs show thoughtfulness & pre-checking      |           |               |                               |
-| 💬 PR Responsiveness       | Comments addressed within 1 working day     |           |               |                               |
-| 🤝 Mentorship Engagement   | Asked for support, participated actively in grooming, planning  |           |               |                               |
+| Metric                     | Expectation                                                                | Dev Score | Mentor Score  | Notes / Reflection            |
+|----------------------------|----------------------------------------------------------------------------|-----------|---------------|-------------------------------|
+| ✅ PRs Merged              | 2–3 per sprint                                                             |           |               |                               |
+| ✅ PRs Reviewed            | 2 per sprint - 1 per week                                                  |           |               |                               |
+| 🔁 PR Cycles               | 1 cycle is preferred                                                       |           |               |                               |
+| 🧼 Code Quality (1–5)      | Clean, readable, minimal rework                                            |           |               |                               |
+| 🧠 Self-Review Effort      | PRs show thoughtfulness & pre-checking                                     |           |               |                               |
+| 💬 PR Responsiveness       | Comments addressed within 1 working day                                    |           |               |                               |
+| 🤝 Mentorship Engagement   | Asked for support, participated actively in grooming, planning             |           |               |                               |
 | 🎯 Dev Personal Goal       | {you will set this goal, talk to your manager for help}                    |           |               |                               |
-| 🧭 Overall Progress        | Trend over previous sprint                  | 👍 / 👎     | 👍 / 👎    | Summary of changes noticed    |
+| 🧭 Overall Progress        | Trend over previous sprint                                                 | 👍 / 👎     | 👍 / 👎    | Summary of changes noticed    |
 
 ---
 
