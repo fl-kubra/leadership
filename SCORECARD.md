@@ -11,7 +11,7 @@ Create a private repo (e.g. "my-feedback") add your direct manager and manager's
 | 🧠 Self-Review Effort      | PRs show thoughtfulness & pre-checking      |           |               |                               |
 | 💬 PR Responsiveness       | Comments addressed within 1 working day     |           |               |                               |
 | 🤝 Mentorship Engagement   | Asked for support, participated actively in grooming, planning  |           |               |                               |
-| 🎯 Dev Personal Goal       | {you will set this goal}                    |           |               |                               |
+| 🎯 Dev Personal Goal       | {you will set this goal, talk to your manager for help}                    |           |               |                               |
 | 🧭 Overall Progress        | Trend over previous sprint                  | 👍 / 👎     | 👍 / 👎    | Summary of changes noticed    |
 
 ---
