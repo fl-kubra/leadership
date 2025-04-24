@@ -4,11 +4,11 @@ Create a private repo (e.g. "my-feedback") add your direct manager and manager's
 | Metric                     | Expectation                                 | Dev Score | Mentor Score  | Notes / Reflection            |
 |----------------------------|---------------------------------------------|-----------|---------------|-------------------------------|
 | ✅ PRs Merged              | 2–3 per sprint                              |           |               |                               |
-| 🔁 PR Review Time          | < 2 days average                            |           |               |                               |
+| 🔁 PR Cycles               | 1 cycle is preferred                        |           |               |                               |
 | 🧼 Code Quality (1–5)      | Clean, readable, minimal rework             |           |               |                               |
 | 🧠 Self-Review Effort      | PRs show thoughtfulness & pre-checking      |           |               |                               |
 | 💬 PR Responsiveness       | Comments addressed within 1 working day     |           |               |                               |
-| 🤝 Mentorship Engagement   | Participated in pairing, asked for support  |           |               |                               |
+| 🤝 Mentorship Engagement   | Participated in pairing, asked for support, participated in grooming, planning  |           |               |                               |
 | 🎯 Dev Personal Goal       | {you will set this goal}                    |           |               |                               |
 | 🧭 Overall Progress        | Trend over previous sprint                  | 👍 / 👎     | 👍 / 👎    | Summary of changes noticed    |
 
