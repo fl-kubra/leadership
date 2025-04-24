@@ -1,4 +1,4 @@
-Create a repo (e.g. "my-feedback"), you *MUST* fill out this scorecard before every 121 with your direct manager.
+Create a repo (e.g. "my-feedback"), you **MUST** fill out this scorecard before every 121 with your direct manager.
 # 🧾 Sprint Scoreboard
 
 | Metric                     | Expectation                                 | Dev Score | Mentor Score | Notes / Reflection           |
