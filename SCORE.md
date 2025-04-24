@@ -1,4 +1,6 @@
+## 🧭 Instructions
 Create a private repo (e.g. "my-feedback") add your direct manager and manager's manager to be able to see the files, you **MUST** fill out this scorecard before every 121 with your direct manager.
+
 ## 🧾 Sprint Scoreboard
 
 | Metric                     | Expectation                                 | Dev Score | Mentor Score  | Notes / Reflection            |
