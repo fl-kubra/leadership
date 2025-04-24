@@ -6,7 +6,7 @@ Create a private repo (e.g. "my-feedback") add your direct manager and manager's
 | Metric                     | Expectation                                                                | Dev Score | Mentor Score  | Notes / Reflection            |
 |----------------------------|----------------------------------------------------------------------------|-----------|---------------|-------------------------------|
 | ✅ PRs Merged              | 2–3 per sprint                                                             |           |               |                               |
-| ✅ PRs Reviewed            | 2 per sprint - 1 per week                                                  |           |               |                               |
+| 👁️ PRs Reviewed            | 2 per sprint                                                               |           |               |                               |
 | 🔁 PR Cycles               | 1 cycle is preferred                                                       |           |               |                               |
 | 🧼 Code Quality (1–5)      | Clean, readable, minimal rework                                            |           |               |                               |
 | 🧠 Self-Review Effort      | PRs show thoughtfulness & pre-checking                                     |           |               |                               |
