@@ -8,7 +8,7 @@ Create a private repo (e.g. "my-feedback") add your direct manager and manager's
 | 🧼 Code Quality (1–5)      | Clean, readable, minimal rework             |           |               |                               |
 | 🧠 Self-Review Effort      | PRs show thoughtfulness & pre-checking      |           |               |                               |
 | 💬 PR Responsiveness       | Comments addressed within 1 working day     |           |               |                               |
-| 🤝 Mentorship Engagement   | Participated in pairing, asked for support, participated in grooming, planning  |           |               |                               |
+| 🤝 Mentorship Engagement   | Asked for support, participated actively in grooming, planning  |           |               |                               |
 | 🎯 Dev Personal Goal       | {you will set this goal}                    |           |               |                               |
 | 🧭 Overall Progress        | Trend over previous sprint                  | 👍 / 👎     | 👍 / 👎    | Summary of changes noticed    |
 
@@ -21,6 +21,6 @@ These will be discussed with you at 121.
 - What went well this sprint?
 - What was frustrating or unclear?
 - Did we reduce PR cycles or rework?
-- Are expectations clear for next sprint?
+- Are expectations clear for next/current sprint?
 - What support is still missing?
 
